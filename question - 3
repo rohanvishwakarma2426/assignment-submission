@@ -1,0 +1,14 @@
+•	Tags  :-
+In HTML, tags are elements used to structure and define the content of a web page. Tags are enclosed within angle brackets (<>) and usually consist of a starting tag and an ending tag, with the content placed between them .
+For example :-
+ the <h1> tag is used for headings, the <p> tag for paragraphs, and the <a> tag for links. Each tag has a purpose that can be used to modify its behavior.
+
+
+•	Element  :-
+HTML (Hypertext Markup Language) elements are fundamental components used to structure and define the content of a web page. Elements are represented by tags, enclosed within angle brackets (<>) and consist of an opening tag, content, and a closing tag. It’s also organized the contant that shows on webpage.
+ For example :
+ Tags: Elements are represented by tags, which are keywords enclosed in angle brackets. The opening tag denotes the start of the element, and the closing tag marks the end. The content of the element is placed between these tags
+
+•	Attributs :-
+In HTML (Hypertext Markup Language), an attribute is used to provide additional information about an HTML element. Attributes are used to modify the behavior or appearance of an element and are defined within the start tag of the element.                  For example :-
+the <img> element has attributes like src to specify the image     source and alt to provide alternative text for the image. The <input> element has attributes like type to define the input   type and name to assign a name to the input field.
