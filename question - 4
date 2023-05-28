@@ -1,0 +1,60 @@
+Heading tag’s :-
+Heading tags are HTML elements used to define the headings or titles of sections within a webpage. In HTML, there are six levels of heading tags, from <h1> to <h6>, where <h1> represents the highest level and <h6> the lowest level. The actual appearance of the headings may vary based on the browser's default styles or custom CSS styles applied to the webpage.
+
+Here's a brief explanation of each heading tag:
+1.	<h1>: This represents the main heading of the webpage and should be used only once per page. It typically describes the overall topic or purpose of the page.
+2.	<h2>: These are used for subheadings that are related to the main topic. They indicate a slightly lower level of importance compared to the <h1> heading.
+3.	<h3> to <h6>: These tags are used for headings of decreasing importance or as subsections of the preceding heading level. As the number increases, the heading level decreases. <h6> represents the lowest level of importance among the heading tags.
+It's important to use heading tags appropriately and in a logical order to provide a clear structure to your content. Properly structured headings can enhance the accessibility, readability, and search engine optimization (SEO) of your webpage. 
+
+
+
+
+
+
+
+
+Paragraph tag’s :-
+Paragraph tags, represented by the HTML element <p>, are used to define paragraphs in HTML documents. They are used to group and structure blocks of text or content that form coherent units within a webpage.When using <p> tags, the content placed between the opening <p> tag and the closing </p> tag is considered a separate paragraph. By default, paragraphs are displayed as blocks of text with vertical spacing before and after the paragraph.
+     Here's an example of how paragraph tags are used in HTML:
+               <p>This is the first paragraph.</p>
+               <p>This is the second paragraph.</p>
+In the above example, two paragraphs are defined. Each paragraph will be displayed as a separate block of text on the webpage.Paragraph tags are commonly used for various types of content, including regular text, descriptions, articles, blog posts, and more. They help in organizing and structuring textual content, making it more readable and visually appealing.
+
+
+
+
+
+
+
+
+Table tags :-
+Table tags in HTML are used to create tabular data structures on webpages. They allow you to organize and display data in rows and columns, making it easier for users to understand and interpret the information. The main elements used for creating tables are <table>, <tr>, <th>, and <td>.
+Here's an explanation of each table-related HTML tag:
+1.	<table>: This tag represents the entire table. It serves as a container for all the table-related elements and defines the boundaries of the table.
+2.	<tr>: This tag defines a table row. It is used to create a horizontal row within the table. Each row can contain one or more table cells (<td> or <th> elements).
+3.	<th>: This tag is used to define table headers, typically placed within the <thead> section of the table. Header cells are used to label or describe the content in a specific column or row.
+4.	<td>: This tag represents a standard table cell. It is used to hold the actual data or content within the table. Cells in a row should align with the corresponding headers in the same column.
+Here's an example that demonstrates the structure of a basic table:
+<table>
+  <thead>
+    <tr>
+      <th>Header 1</th>
+      <th>Header 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Data 1</td>
+      <td>Data 2</td>
+    </tr>
+    <tr>
+      <td>Data 3</td>
+      <td>Data 4</td>
+    </tr>
+  </tbody>
+</table>
+
+In this example, we have a table with two columns and two rows. The headers "Header 1" and "Header 2" are defined using <th> tags within the <thead> section, while the actual data cells "Data 1," "Data 2," "Data 3," and "Data 4" are contained within <td> tags in the <tbody> section.
+
+Table tags provide a powerful way to organize and present data in a structured format. However, it's important to use tables judiciously, ensuring that they are semantically appropriate and avoid using tables for purely presentational purposes.
