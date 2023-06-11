@@ -1,0 +1,15 @@
+Emmet :-
+Emmet is a powerful plugin for text editors that helps web developers write HTML and CSS code more efficiently. It enables developers to write shorthand code snippets and then expand them into full HTML or CSS code automatically. Emmet provides a set of abbreviations, or "emmet expressions," that allow developers to generate complex code structures quickly.
+Example :-   if you type ul>li.item$*3, Emmet will expand it to:
+<ul>
+  <li class="item1"></li>
+  <li class="item2"></li>
+  <li class="item3"></li>
+</ul>
+
+Emmet offers several advantages that can enhance the productivity of web developers:
+1.	Faster coding: Emmet allows developers to write shorthand expressions and expand them into full HTML or CSS code with a single command. It eliminates the need for manual typing of repetitive code structures, which speeds up the coding process.
+2.	Improved workflow: By reducing the time spent on writing and formatting code, Emmet enables developers to focus more on the logic and structure of their web pages. It streamlines the workflow and makes the development process more efficient.
+3.	Code abbreviation: Emmet provides a set of abbreviations that allow developers to write concise code. It uses intuitive and easy-to-remember syntax, which makes it easier to create complex HTML or CSS structures.
+4.	Nested elements: Emmet supports nesting of HTML elements, allowing developers to write hierarchical code structures in a compact manner. This feature is especially useful when dealing with nested lists, tables, or other complex structures.
+5.	Dynamic numbering and repetition: Emmet allows for dynamic numbering and repetition of elements. By using placeholders like $, developers can automatically generate incremental numbers or repeat elements multiple times, saving time and effort.
