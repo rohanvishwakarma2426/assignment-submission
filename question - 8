@@ -1,0 +1,32 @@
+Self-closing tags :-----
+
+
+Self-closing tags, also known as void elements or empty elements, are HTML tags that do not require a closing tag. They are used to represent elements that don't contain any content or have a closing tag equivalent. Instead of using the traditional opening and closing tag pair,self-closing tags are written as a single tag with a slash before the closing angle bracket.
+Here are some examples of commonly used self-closing tags:
+
+<br>: Represents a line break or line separator.
+
+<hr>: Represents a horizontal rule or divider.
+
+<img>: Displays an image.
+
+<input>: Represents an input field or form control.
+
+<link>: Specifies an external stylesheet or resource.
+
+<meta>: Provides metadata about the HTML document.
+
+<area>: Defines a clickable area within an image map.
+
+<base>: Specifies the base URL for all relative URLs in a document.
+
+<col>: Defines attributes for table columns.
+
+<embed>: Embeds external content, such as multimedia or plugins.
+
+Using self-closing tags is important for maintaining proper HTML syntax and compatibility across different browsers. It's worth noting that in XHTML or XML, all tags must be closed, including self-closing tags, by adding a trailing slash before the closing angle bracket (e.g., <br />). However, in HTML5, the trailing slash is optional, and self-closing tags can be written without it (e.g., <br>).
+
+
+Meta tags :---
+
+Meta tags are HTML elements that provide additional information about a web page. These tags are placed within the head section of an HTML document and are not displayed directly on the page. Instead, they serve as instructions or metadata for browsers, search engines, and other web services.
