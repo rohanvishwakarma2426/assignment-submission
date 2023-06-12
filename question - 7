@@ -1,0 +1,18 @@
+explanation about nestion oprators in emmet -----
+
+Emmet is a popular abbreviation and expansion tool used in web development to write HTML and CSS code quickly and efficiently. It provides various features, including nesting operators, which allow for concise and expressive code writing.
+Nesting operators in Emmet are symbols or characters that help define the hierarchical relationship between HTML elements. They enable you to generate nested structures without explicitly writing each tag separately. Here are some commonly used nesting operators in Emmet:
+
+Child Operator (>):
+It is represented by the > symbol and indicates that the element on the right is a direct child of the element on the left. For example, div > p will generate a <div> element containing a <p> element inside it.
+
+Sibling Operator (+): 
+The sibling operator, denoted by the + symbol, creates elements that are next to each other at the same level. For instance, div + p will produce a <div> element followed by a sibling <p> element.
+
+Multiplication Operator (*):
+The multiplication operator is represented by the * symbol and is used to duplicate elements. It specifies the number of times an element should be repeated. For example, ul>li*3 will generate an unordered list (<ul>) with three list items (<li>).
+
+Grouping Operator (()):
+The grouping operator, denoted by the () symbols, allows you to group elements together. It helps establish a parent-child relationship between multiple elements. For instance, (div>span)+p will create a <div> element with a nested <span> element, followed by a sibling <p> element.
+
+These nesting operators in Emmet provide a concise and intuitive way to describe the structure of HTML elements, enabling developers to write code more efficiently.
