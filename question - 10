@@ -1,0 +1,21 @@
+Global attributes :---
+
+Global attributes in HTML are a set of attributes that can be applied to any HTML element. These attributes provide common functionality and behavior across different elements. They are not specific to a particular element but can be used universally to enhance the functionality and accessibility of HTML documents.
+Here are some commonly used global attributes:
+
+class: 
+Specifies one or more class names for an element, allowing CSS styles or JavaScript to target and apply specific styles or behavior.
+
+id:
+Assigns a unique identifier to an element, which can be used for styling or targeting with JavaScript.
+
+style: 
+Defines inline CSS styles for an element, allowing for specific visual formatting.
+
+title: 
+Provides a title or tooltip text that is displayed when hovering over the element.
+
+data-*:
+Allows the inclusion of custom data attributes to store additional information for an element. The asterisk (*) can be replaced with any name to create a custom attribute (e.g., data-name="John").
+
+These global attributes provide flexibility and customization options for HTML elements, allowing developers to enhance the functionality, accessibility, and user experience of their web pages. It's important to use these attributes judiciously and follow best practices to ensure proper accessibility and maintainability of the code.
